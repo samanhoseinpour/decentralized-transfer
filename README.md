@@ -1,5 +1,9 @@
 # Decentralized Transfer
 
+![Home Screen](./home-1.png)
+
+![Home Screen with metamask connected](./home-2.png)
+
 Decentralized Transfer is a web3.0 website built with React and Solidity, enabling seamless cross-border crypto transactions via the Goerli testnet. It connects with Metamask, a secure, decentralized wallet.
 
 ## Features
